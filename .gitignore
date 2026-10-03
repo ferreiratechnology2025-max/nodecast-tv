@@ -10,3 +10,17 @@ dist/
 release/
 .vscode
 transcode-cache/
+.env.*
+*.env
+!.env.example
+__pycache__/
+*.pyc
+.venv/
+*.sqlite
+*.sqlite3
+build/
+*.gguf
+*.onnx
+venv/
+.idea/
+.vscode/
